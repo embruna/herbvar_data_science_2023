@@ -4,8 +4,9 @@ This data archive was downloaded from Dryad on 24 May 2024.  It should be cited 
 
 Wetzel, William et al. (2023). Plant size, latitude, and phylogeny explain within-population variability in herbivory [Dataset]. Dryad. [https://doi.org/10.5061/dryad.44j0zpckm](https://datadryad.org/stash/dataset/doi:10.5061/dryad.44j0zpckm)
 
+---
 
-# Plant size, latitude, and phylogeny explain within-population variability in herbivory
+## Plant size, latitude, and phylogeny explain within-population variability in herbivory
 
 ---
 
@@ -15,7 +16,7 @@ Our website is [herbvar.org](https://herbvar.org). We are funded by the US Natio
 
 This version of the dataset and analysis is associated with the following paper: The Herbivory Variability Network et al. 2023. Plant size, latitude, and phylogeny explain within-population variability in herbivory. Science 382: 679-683. <https://www.science.org/doi/10.1126/science.adh8830>
 
-## Description of the data and file structure
+### Description of the data and file structure
 
 There are three csv data files in the dataset. Each represents a different biological scale: plant individuals, plant populations, and plant species.
 
@@ -23,7 +24,7 @@ data_plant_level_prep_2023-01-01 10-15-19.csv -- each row is a plant individual
 data_survey_level_prep_2023-01-01 10-15-19.csv -- each row is a plant population
 data_species_level_prep_2023-01-01 10-15-19.csv -- each row is a plant species
 
-## Column name definitions
+### Column name definitions
 
 **data_plant_level_prep_2023-01-01 10-15-19.csv**
 
@@ -75,7 +76,7 @@ data_species_level_prep_2023-01-01 10-15-19.csv -- each row is a plant species
 | plantGiniAdj       | The adjusted Gini coefficient of herbivory averaged across the surveys of each species (see methods)       |
 | plantGiniAdjLogit  | The logit adjusted Gini coefficient of herbivory averaged across the surveys of each species (see methods) |
 
-## Code/Software
+### Code/Software
 
 Our analysis scripts are also available at our [public GitHub repository for this paper](https://github.com/HerbVar-Network/HV-Large-Patterns-MS-public). It includes six R scripts.
 
