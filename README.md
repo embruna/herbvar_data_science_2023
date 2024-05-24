@@ -1,3 +1,10 @@
+# Overview
+
+This data archive was downloaded from Dryad on 24 May 2024.  It should be cited as 
+
+Wetzel, William et al. (2023). Plant size, latitude, and phylogeny explain within-population variability in herbivory [Dataset]. Dryad. [https://doi.org/10.5061/dryad.44j0zpckm](https://datadryad.org/stash/dataset/doi:10.5061/dryad.44j0zpckm)
+
+
 # Plant size, latitude, and phylogeny explain within-population variability in herbivory
 
 ---
