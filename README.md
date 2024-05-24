@@ -8,7 +8,7 @@ Wetzel, William et al. (2023). Plant size, latitude, and phylogeny explain withi
 
 ## Plant size, latitude, and phylogeny explain within-population variability in herbivory
 
----
+
 
 This dataset and set of scripts was produced by the members of The Herbivory Variability Network. It examines global and phylogenetic patterns of herbivory via 790 suveys of 503 plant species.
 
